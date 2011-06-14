@@ -1,4 +1,5 @@
 class User < ActiveRecord::Base
+  has_many :plans
   has_many :events, :through => :plans
   
   validates :name, :presence => true

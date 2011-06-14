@@ -14,7 +14,7 @@ ActiveRecord::Schema.define(:version => 20110614020946) do
 
   create_table "events", :force => true do |t|
     t.integer  "spot_id",     :null => false
-    t.integer  "user_id",     :null => false
+    t.integer  "creator_id",  :null => false
     t.datetime "starts_at",   :null => false
     t.text     "description"
     t.datetime "created_at"
@@ -30,11 +30,6 @@ ActiveRecord::Schema.define(:version => 20110614020946) do
     t.text     "message"
     t.datetime "created_at"
     t.datetime "updated_at"
-  end
-
-  create_table "plans_users", :force => true do |t|
-    t.integer "plans_id"
-    t.integer "users_id"
   end
 
   create_table "spots", :force => true do |t|

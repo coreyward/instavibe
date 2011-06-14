@@ -1,6 +1,6 @@
 class Event < ActiveRecord::Base
   belongs_to :spot
-  belongs_to :creator, :class_name => :user # created by a user
+  belongs_to :creator, :class_name => "User" # created by a user
   has_many :users, :through => :plans
   
   validates :spot, :presence => true
