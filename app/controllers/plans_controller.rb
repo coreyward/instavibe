@@ -1,53 +1,37 @@
 class PlansController < ApplicationController
-  respond_to :json
+  respond_to :json, :xml
   before_filter :set_user
   
-  # GET /plans
-  # GET /plans.json
+  # GET /api/users/:user_id/plans
   def index
-    @plans = @user.try(:plans)
-    
+    @plans = @user.plans.recent
     respond_with(@user, @plans)
   end
 
-  # GET /plans/1
+  # GET /api/users/:user_id/plans/1
   def show
     @plan = Plan.with_details.find(params[:id])
     respond_with(@user, @plan, :include => { :event => { :include => :spot } })
   end
 
-  # POST /plans
+  # POST /api/users/:user_id/plans
   def create
     @plan = @user.plans.create(params[:plan])
     respond_with(@user, @plan)
   end
 
-  # PUT /plans/1
-  # PUT /plans/1.json
+  # PUT /api/users/:user_id/plans/:id
   def update
-    @plan = Plan.find(params[:id])
-
-    respond_to do |format|
-      if @plan.update_attributes(params[:plan])
-        format.html { redirect_to(@plan, :notice => 'Plan was successfully updated.') }
-        format.json  { head :ok }
-      else
-        format.html { render :action => "edit" }
-        format.json  { render :xml => @plan.errors, :status => :unprocessable_entity }
-      end
-    end
+    @plan = @user.plans.unscoped.find(params[:id])
+    @plan.update_attributes(params[:plan])
+    respond_with(@user, @plan)
   end
 
-  # DELETE /plans/1
-  # DELETE /plans/1.json
+  # DELETE /api/users/:user_id/plans/1
   def destroy
-    @plan = Plan.find(params[:id])
-    @plan.destroy
-
-    respond_to do |format|
-      format.html { redirect_to(plans_url) }
-      format.json  { head :ok }
-    end
+    @plan = @user.plans.find(params[:id])
+    @plan.deactivate!
+    head :ok
   end
   
 private
