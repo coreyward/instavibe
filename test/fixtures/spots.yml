@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  geolat: MyString
+  geolong: MyString
+  image_url: MyString
+  url: MyString
+  description: MyString
+
+two:
+  name: MyString
+  geolat: MyString
+  geolong: MyString
+  image_url: MyString
+  url: MyString
+  description: MyString

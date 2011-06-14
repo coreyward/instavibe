@@ -1,0 +1,1609 @@
+ {
+  "groups": [],
+  "total_pages": 1,
+  "spots": [
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Whole Foods",
+      "checkins_count": 13697,
+      "image_url": "http://static.gowalla.com/spots/9241-4890f2589171e1d9f779714703969d98-100.png",
+      "_image_url_200": "http://static.gowalla.com/spots/9241-fa27651612224a62bfff1ab8e21305b3-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/spots/9241-4890f2589171e1d9f779714703969d98-100.png",
+      "radius_meters": 100,
+      "users_count": 3325,
+      "url": "/spots/9241",
+      "checkins_url": "/checkins?spot_id=9241",
+      "foursquare_id": null,
+      "lng": "-97.7537029982",
+      "spot_categories": [
+        {
+          "name": "Whole Foods",
+          "url": "/categories/422"
+        }
+      ],
+      "highlights_url": "/spots/9241/highlights",
+      "items_url": "/spots/9241/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "The world’s leader in natural and organic foods, with more than 270 stores, Whole Foods Market began as a small neighborhood grocer 25 years ago.",
+      "lat": "30.2707337816",
+      "activity_url": "/spots/9241/events",
+      "photos_count": 410
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Alamo Drafthouse Cinema - South Lamar",
+      "checkins_count": 6297,
+      "image_url": "http://static.gowalla.com/categories/694-7b18a1015626ec36b38cd34e0264a6a1-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/694-7d68700043ae4c3c461874de29da1231-200.png",
+      "trending_level": 1,
+      "_image_url_50": "http://static.gowalla.com/categories/694-7b18a1015626ec36b38cd34e0264a6a1-100.png",
+      "radius_meters": 150,
+      "users_count": 2335,
+      "url": "/spots/316637",
+      "checkins_url": "/checkins?spot_id=316637",
+      "foursquare_id": "4388f700f964a520172b1fe3",
+      "lng": "-97.7633857727",
+      "spot_categories": [
+        {
+          "name": "Alamo Drafthouse Cinema",
+          "url": "/categories/694"
+        }
+      ],
+      "highlights_url": "/spots/316637/highlights",
+      "items_url": "/spots/316637/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "The Alamo Drafthouse Cinema at South Lamar.",
+      "lat": "30.2557309927",
+      "activity_url": "/spots/316637/events",
+      "photos_count": 191
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Shangri-la Austin",
+      "checkins_count": 2100,
+      "image_url": "http://static.gowalla.com/categories/56-2f0e5f0befea73fa5150f9a3de1aec69-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/56-373cda302cc4bc4a5921bd84536cf915-200.png",
+      "trending_level": 1,
+      "_image_url_50": "http://static.gowalla.com/categories/56-2f0e5f0befea73fa5150f9a3de1aec69-100.png",
+      "radius_meters": 75,
+      "users_count": 896,
+      "url": "/spots/99753",
+      "checkins_url": "/checkins?spot_id=99753",
+      "foursquare_id": "49e03d51f964a52048611fe3",
+      "lng": "-97.73164035",
+      "spot_categories": [
+        {
+          "name": "Other - Nightlife ",
+          "url": "/categories/56"
+        }
+      ],
+      "highlights_url": "/spots/99753/highlights",
+      "items_url": "/spots/99753/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.2649630167",
+      "activity_url": "/spots/99753/events",
+      "photos_count": 89
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Dirty Bill's",
+      "checkins_count": 724,
+      "image_url": "http://static.gowalla.com/categories/28-78c9b4d7d239784df49dc932f64a3519-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/28-b0d41920d32839ce1ecd6641e5fc2c87-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/28-78c9b4d7d239784df49dc932f64a3519-100.png",
+      "radius_meters": 50,
+      "users_count": 417,
+      "url": "/spots/43711",
+      "checkins_url": "/checkins?spot_id=43711",
+      "foursquare_id": null,
+      "spot_categories": [
+        {
+          "name": "Dive Bar",
+          "url": "/categories/28"
+        }
+      ],
+      "lng": "-97.7495040214",
+      "highlights_url": "/spots/43711/highlights",
+      "items_url": "/spots/43711/items",
+      "items_count": 11,
+      "strict_radius": false,
+      "description": "AKA the Gnome Bar. Much Warmer than Key Bar.",
+      "lat": "30.2696322356",
+      "activity_url": "/spots/43711/events",
+      "photos_count": 26
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Wahoo's Fish Taco",
+      "checkins_count": 1544,
+      "image_url": "http://static.gowalla.com/categories/15-86c95944931ab87b5af70d9cf48de40e-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/15-a055b42ca25e1e6a18786a5d967c1b26-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/15-86c95944931ab87b5af70d9cf48de40e-100.png",
+      "radius_meters": 50,
+      "users_count": 798,
+      "url": "/spots/18568",
+      "checkins_url": "/checkins?spot_id=18568",
+      "foursquare_id": "44c38e6df964a520c9351fe3",
+      "spot_categories": [
+        {
+          "name": "Mexican",
+          "url": "/categories/15"
+        }
+      ],
+      "lng": "-97.7495133877",
+      "highlights_url": "/spots/18568/highlights",
+      "items_url": "/spots/18568/items",
+      "items_count": 12,
+      "strict_radius": false,
+      "description": "All the fun of fish tacos at the beach, without the sand in your shorts.",
+      "lat": "30.2695755256",
+      "activity_url": "/spots/18568/events",
+      "photos_count": 94
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Austin Wellness Clinic",
+      "checkins_count": 4,
+      "image_url": "http://static.gowalla.com/categories/118-5f9e72162abf3dcbc0108cdbdba6a29f-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/118-b41c2ba96f1ffe99fc23f12f0ee3b960-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/118-5f9e72162abf3dcbc0108cdbdba6a29f-100.png",
+      "radius_meters": 75,
+      "users_count": 4,
+      "url": "/spots/7360448",
+      "checkins_url": "/checkins?spot_id=7360448",
+      "foursquare_id": null,
+      "lng": "-97.7495133877",
+      "spot_categories": [
+        {
+          "name": "Health & Fitness",
+          "url": "/categories/118"
+        }
+      ],
+      "highlights_url": "/spots/7360448/highlights",
+      "items_url": "/spots/7360448/items",
+      "items_count": 0,
+      "strict_radius": false,
+      "description": null,
+      "lat": "30.2695755256",
+      "activity_url": "/spots/7360448/events",
+      "photos_count": 0
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Hoffbrau Steaks",
+      "checkins_count": 153,
+      "image_url": "http://static.gowalla.com/categories/100-9e85da30903fcc957bce20eaaa1af0e9-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/100-99ade9d5251b33118e9abffdf39701bf-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/100-9e85da30903fcc957bce20eaaa1af0e9-100.png",
+      "radius_meters": 75,
+      "users_count": 127,
+      "url": "/spots/161959",
+      "checkins_url": "/checkins?spot_id=161959",
+      "foursquare_id": "49c134b5f964a52091551fe3",
+      "spot_categories": [
+        {
+          "name": "Steakhouse",
+          "url": "/categories/100"
+        }
+      ],
+      "lng": "-97.7490836833",
+      "highlights_url": "/spots/161959/highlights",
+      "items_url": "/spots/161959/items",
+      "items_count": 12,
+      "strict_radius": false,
+      "description": null,
+      "lat": "30.2697276667",
+      "activity_url": "/spots/161959/events",
+      "photos_count": 6
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Paqui Trailer ",
+      "checkins_count": 43,
+      "image_url": "http://static.gowalla.com/categories/178-fb501321c141df2c7f95086184d67742-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/178-155e3573f3d56d8c4c6a4eca592b92c2-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/178-fb501321c141df2c7f95086184d67742-100.png",
+      "radius_meters": 50,
+      "users_count": 38,
+      "url": "/spots/749750",
+      "checkins_url": "/checkins?spot_id=749750",
+      "foursquare_id": null,
+      "spot_categories": [
+        {
+          "name": "Street Fare",
+          "url": "/categories/178"
+        }
+      ],
+      "lng": "-97.7490791343",
+      "highlights_url": "/spots/749750/highlights",
+      "items_url": "/spots/749750/items",
+      "items_count": 4,
+      "strict_radius": false,
+      "description": "Tacos",
+      "lat": "30.2695496561",
+      "activity_url": "/spots/749750/events",
+      "photos_count": 0
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Key Bar",
+      "checkins_count": 950,
+      "image_url": "http://static.gowalla.com/categories/26-cb1b638a5929e0dbd3bfd3e39d5c1d7e-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/26-9d894bc134c2b74cbe7ac511ab4e0f60-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/26-cb1b638a5929e0dbd3bfd3e39d5c1d7e-100.png",
+      "radius_meters": 75,
+      "users_count": 559,
+      "url": "/spots/197305",
+      "checkins_url": "/checkins?spot_id=197305",
+      "foursquare_id": null,
+      "spot_categories": [
+        {
+          "name": "Ultra-lounge",
+          "url": "/categories/26"
+        }
+      ],
+      "lng": "-97.74914045",
+      "highlights_url": "/spots/197305/highlights",
+      "items_url": "/spots/197305/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.2699702",
+      "activity_url": "/spots/197305/events",
+      "photos_count": 31
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Gattis Pizza",
+      "checkins_count": 80,
+      "image_url": "http://static.gowalla.com/categories/155-73fa5150a3deec69dfa8b3b0085754ef-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/155-ad3608e4d33af8f7dfee8cf573be9b8d-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/155-73fa5150a3deec69dfa8b3b0085754ef-100.png",
+      "radius_meters": 75,
+      "users_count": 69,
+      "url": "/spots/331619",
+      "checkins_url": "/checkins?spot_id=331619",
+      "foursquare_id": "4ab1609ff964a520386920e3",
+      "lng": "-97.7497345833",
+      "spot_categories": [
+        {
+          "name": "Pizza",
+          "url": "/categories/155"
+        }
+      ],
+      "highlights_url": "/spots/331619/highlights",
+      "items_url": "/spots/331619/items",
+      "items_count": 5,
+      "strict_radius": false,
+      "description": null,
+      "lat": "30.2699120667",
+      "activity_url": "/spots/331619/events",
+      "photos_count": 2
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Walton's Fancy & Staple",
+      "checkins_count": 906,
+      "image_url": "http://static.gowalla.com/categories/110-b03be34e15ede6102c9767b9ce5aa1e3-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/110-e25ec3b11786038f50cfe8c159a241a8-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/110-b03be34e15ede6102c9767b9ce5aa1e3-100.png",
+      "radius_meters": 50,
+      "users_count": 476,
+      "url": "/spots/19267",
+      "checkins_url": "/checkins?spot_id=19267",
+      "foursquare_id": "4a402fe5f964a52064a41fe3",
+      "spot_categories": [
+        {
+          "name": "Bakery",
+          "url": "/categories/110"
+        }
+      ],
+      "lng": "-97.7489876747",
+      "highlights_url": "/spots/19267/highlights",
+      "items_url": "/spots/19267/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": " Walton's Fancy and Staple™ is a Gourmet Delicatessen/Bakery and Café offering delicious Gourmet2Go, one-stop floral services, catering and delivery. \nOur daily offerings include: sandwiches, salads, soups, cheeses, breads, pastries, sweets, coffee, espresso, arrangements, cut flowers, interior plantscape design services and gift & picnic baskets. For our up-to-the-minute specials - follow Walton's on Twitter!",
+      "lat": "30.2696496544",
+      "activity_url": "/spots/19267/events",
+      "photos_count": 62
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Union Park",
+      "checkins_count": 1371,
+      "image_url": "http://static.gowalla.com/categories/26-cb1b638a5929e0dbd3bfd3e39d5c1d7e-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/26-9d894bc134c2b74cbe7ac511ab4e0f60-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/26-cb1b638a5929e0dbd3bfd3e39d5c1d7e-100.png",
+      "radius_meters": 75,
+      "users_count": 806,
+      "url": "/spots/42124",
+      "checkins_url": "/checkins?spot_id=42124",
+      "foursquare_id": "4504eff0f964a520e2381fe3",
+      "lng": "-97.7489702462",
+      "spot_categories": [
+        {
+          "name": "Ultra-lounge",
+          "url": "/categories/26"
+        }
+      ],
+      "highlights_url": "/spots/42124/highlights",
+      "items_url": "/spots/42124/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.2698105017",
+      "activity_url": "/spots/42124/events",
+      "photos_count": 57
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Gowalla Office 1B",
+      "checkins_count": 207,
+      "image_url": "http://static.gowalla.com/categories/121-903d9ce4f33b0284aacfeacd58118a19-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/121-b3390d3267c29dbbbd67ccfff852177f-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/121-903d9ce4f33b0284aacfeacd58118a19-100.png",
+      "radius_meters": 75,
+      "users_count": 115,
+      "url": "/spots/6476224",
+      "checkins_url": "/checkins?spot_id=6476224",
+      "foursquare_id": null,
+      "lng": "-97.749352878",
+      "spot_categories": [
+        {
+          "name": "Corporate Office",
+          "url": "/categories/121"
+        }
+      ],
+      "highlights_url": "/spots/6476224/highlights",
+      "items_url": "/spots/6476224/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.269263558",
+      "activity_url": "/spots/6476224/events",
+      "photos_count": 83
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "West 6th",
+      "checkins_count": 69,
+      "image_url": "http://static.gowalla.com/categories/56-2f0e5f0befea73fa5150f9a3de1aec69-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/56-373cda302cc4bc4a5921bd84536cf915-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/56-2f0e5f0befea73fa5150f9a3de1aec69-100.png",
+      "radius_meters": 75,
+      "users_count": 60,
+      "url": "/spots/5656624",
+      "checkins_url": "/checkins?spot_id=5656624",
+      "foursquare_id": null,
+      "lng": "-97.7498039",
+      "spot_categories": [
+        {
+          "name": "Other - Nightlife ",
+          "url": "/categories/56"
+        }
+      ],
+      "highlights_url": "/spots/5656624/highlights",
+      "items_url": "/spots/5656624/items",
+      "items_count": 3,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.269393",
+      "activity_url": "/spots/5656624/events",
+      "photos_count": 0
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Kung Fu Saloon",
+      "checkins_count": 2136,
+      "image_url": "http://static.gowalla.com/spots/293641-ac22d4cadb6e7c6dc5d97fd9a47b5e25-100.png",
+      "_image_url_200": "http://static.gowalla.com/spots/293641-6bb213b260d5fb6a45d5c931dd323960-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/spots/293641-ac22d4cadb6e7c6dc5d97fd9a47b5e25-100.png",
+      "radius_meters": 50,
+      "users_count": 1219,
+      "url": "/spots/293641",
+      "checkins_url": "/checkins?spot_id=293641",
+      "foursquare_id": "4b3ada28f964a5202d6f25e3",
+      "spot_categories": [
+        {
+          "name": "Saloon",
+          "url": "/categories/97"
+        }
+      ],
+      "lng": "-97.7499103546",
+      "highlights_url": "/spots/293641/highlights",
+      "items_url": "/spots/293641/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "Kung Fu Saloon is a West 6th watering hole featuring vintage arcade games and skeeball!",
+      "lat": "30.2694643323",
+      "activity_url": "/spots/293641/events",
+      "photos_count": 111
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Momo's",
+      "checkins_count": 727,
+      "image_url": "http://static.gowalla.com/categories/32-afbc47e93ac03ff56ab8c166fed24a9f-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/32-6ca1636ea45c101437f3b1070e896814-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/32-afbc47e93ac03ff56ab8c166fed24a9f-100.png",
+      "radius_meters": 75,
+      "users_count": 515,
+      "url": "/spots/232536",
+      "checkins_url": "/checkins?spot_id=232536",
+      "foursquare_id": "40b13b00f964a520caf31ee3",
+      "lng": "-97.7490722667",
+      "spot_categories": [
+        {
+          "name": "Live Music",
+          "url": "/categories/32"
+        }
+      ],
+      "highlights_url": "/spots/232536/highlights",
+      "items_url": "/spots/232536/items",
+      "items_count": 17,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.2701965",
+      "activity_url": "/spots/232536/events",
+      "photos_count": 60
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Opal Divine's Freehouse",
+      "checkins_count": 1285,
+      "image_url": "http://static.gowalla.com/categories/16-1f31710ac58f380ed7a48f5acbeba790-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/16-017d496fbdb50dca6782702eef2d5c94-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/16-1f31710ac58f380ed7a48f5acbeba790-100.png",
+      "radius_meters": 50,
+      "users_count": 769,
+      "url": "/spots/15478",
+      "checkins_url": "/checkins?spot_id=15478",
+      "foursquare_id": "4d6d4c9ae7ab224b07d87bf7",
+      "spot_categories": [
+        {
+          "name": "American",
+          "url": "/categories/16"
+        }
+      ],
+      "lng": "-97.7497132123",
+      "highlights_url": "/spots/15478/highlights",
+      "items_url": "/spots/15478/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "Bring two hands for the beer (cos there's a lot of it here) and also two hands for the Fish'n'Chips, cos it's the biggest you'll ever see Stateside.",
+      "lat": "30.2702114098",
+      "activity_url": "/spots/15478/events",
+      "photos_count": 49
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Chocolate Bunny Pirates",
+      "checkins_count": 57,
+      "image_url": "http://static.gowalla.com/categories/180-b78e903d9ce4f33b02844daacfeacd58-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/180-20eb7094bcda82ade2904e03a7263e9c-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/180-b78e903d9ce4f33b02844daacfeacd58-100.png",
+      "radius_meters": 75,
+      "users_count": 24,
+      "url": "/spots/6966378",
+      "checkins_url": "/checkins?spot_id=6966378",
+      "foursquare_id": null,
+      "lng": "-97.7494161",
+      "spot_categories": [
+        {
+          "name": "Candy Store",
+          "url": "/categories/180"
+        }
+      ],
+      "highlights_url": "/spots/6966378/highlights",
+      "items_url": "/spots/6966378/items",
+      "items_count": 6,
+      "strict_radius": false,
+      "description": "They plunder... your hunger!",
+      "lat": "30.2691186",
+      "activity_url": "/spots/6966378/events",
+      "photos_count": 13
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Gowalla Incorporated",
+      "checkins_count": 7392,
+      "image_url": "http://static.gowalla.com/spots/420315-9f7dd8b8018555908bfe3539616a6f3f-100.png",
+      "_image_url_200": "http://static.gowalla.com/spots/420315-618a7331c2787fa9d92823a7a101c488-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/spots/420315-9f7dd8b8018555908bfe3539616a6f3f-100.png",
+      "radius_meters": 100,
+      "users_count": 1586,
+      "url": "/spots/420315",
+      "checkins_url": "/checkins?spot_id=420315",
+      "foursquare_id": "4aa161bbf964a520774020e3",
+      "spot_categories": [
+        {
+          "name": "Corporate Office",
+          "url": "/categories/121"
+        }
+      ],
+      "lng": "-97.7493953705",
+      "highlights_url": "/spots/420315/highlights",
+      "items_url": "/spots/420315/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "The bank is just a front for the most interesting company in the world. Stay thirsty my friends.",
+      "lat": "30.2691029532",
+      "activity_url": "/spots/420315/events",
+      "photos_count": 1040
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "ABC Bank",
+      "checkins_count": 84,
+      "image_url": "http://static.gowalla.com/categories/186-6bbc4f218b796016793ff0fc9eb18755-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/186-785ac730272e97b18754e9f7af592ed7-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/186-6bbc4f218b796016793ff0fc9eb18755-100.png",
+      "radius_meters": 50,
+      "users_count": 60,
+      "url": "/spots/1095740",
+      "checkins_url": "/checkins?spot_id=1095740",
+      "foursquare_id": "4b47b8c3f964a520df3b26e3",
+      "spot_categories": [
+        {
+          "name": "Bank & Financial",
+          "url": "/categories/186"
+        }
+      ],
+      "lng": "-97.74962604",
+      "highlights_url": "/spots/1095740/highlights",
+      "items_url": "/spots/1095740/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "American Bank of Commerce Bank, complete with an ATM machine.",
+      "lat": "30.269130752",
+      "activity_url": "/spots/1095740/events",
+      "photos_count": 2
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Wild Gowallaby #4",
+      "checkins_count": 109,
+      "image_url": "http://static.gowalla.com/categories/359-a8bad551951674e34d88b81da0791e1a-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/359-a608ad74d03bd26f2c8a5eef69bb7749-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/359-a8bad551951674e34d88b81da0791e1a-100.png",
+      "radius_meters": 75,
+      "users_count": 89,
+      "url": "/spots/4238502",
+      "checkins_url": "/checkins?spot_id=4238502",
+      "foursquare_id": "4b3ada28f964a5202d6f25e3",
+      "spot_categories": [
+        {
+          "name": "Other - Zoo",
+          "url": "/categories/359"
+        }
+      ],
+      "lng": "-97.749951246",
+      "highlights_url": "/spots/4238502/highlights",
+      "items_url": "/spots/4238502/items",
+      "items_count": 8,
+      "strict_radius": false,
+      "description": "Hiding out by Donkey Kong at Kung Fu Saloon",
+      "lat": "30.26932849",
+      "activity_url": "/spots/4238502/events",
+      "photos_count": 7
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Haddington's",
+      "checkins_count": 588,
+      "image_url": "http://static.gowalla.com/categories/24-1ce1ad9e41ae85d468b71e483daac930-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/24-602659589368399c1ab8d500d2b8a4da-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/24-1ce1ad9e41ae85d468b71e483daac930-100.png",
+      "radius_meters": 75,
+      "users_count": 393,
+      "url": "/spots/6696755",
+      "checkins_url": "/checkins?spot_id=6696755",
+      "foursquare_id": "4d1a40c7cc216ea8857c83d3",
+      "lng": "-97.7486998353",
+      "spot_categories": [
+        {
+          "name": "Pub",
+          "url": "/categories/24"
+        }
+      ],
+      "highlights_url": "/spots/6696755/highlights",
+      "items_url": "/spots/6696755/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "Gastro pub: Prohibition-era American pub with British influences",
+      "lat": "30.269556038",
+      "activity_url": "/spots/6696755/events",
+      "photos_count": 49
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Beast",
+      "checkins_count": 52,
+      "image_url": "http://static.gowalla.com/categories/121-903d9ce4f33b0284aacfeacd58118a19-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/121-b3390d3267c29dbbbd67ccfff852177f-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/121-903d9ce4f33b0284aacfeacd58118a19-100.png",
+      "radius_meters": 75,
+      "users_count": 42,
+      "url": "/spots/718611",
+      "checkins_url": "/checkins?spot_id=718611",
+      "foursquare_id": "4c65ba2319f3c9b671f79dff",
+      "lng": "-97.7501414333",
+      "spot_categories": [
+        {
+          "name": "Corporate Office",
+          "url": "/categories/121"
+        }
+      ],
+      "highlights_url": "/spots/718611/highlights",
+      "items_url": "/spots/718611/items",
+      "items_count": 4,
+      "strict_radius": false,
+      "description": "Production House",
+      "lat": "30.2697830667",
+      "activity_url": "/spots/718611/events",
+      "photos_count": 2
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "The Great Wall Of Gowallabikes, Made Glorious By A Grandiose Spot Name ",
+      "checkins_count": 17,
+      "image_url": "http://static.gowalla.com/categories/63-43aca3abe7c2f1d0bd7169d4f975bc12-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/63-69af60f6c4f88df49956ffba7b2738b2-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/63-43aca3abe7c2f1d0bd7169d4f975bc12-100.png",
+      "radius_meters": 75,
+      "users_count": 15,
+      "url": "/spots/7219370",
+      "checkins_url": "/checkins?spot_id=7219370",
+      "foursquare_id": null,
+      "spot_categories": [
+        {
+          "name": "Monument",
+          "url": "/categories/63"
+        }
+      ],
+      "lng": "-97.749351067",
+      "highlights_url": "/spots/7219370/highlights",
+      "items_url": "/spots/7219370/items",
+      "items_count": 1,
+      "strict_radius": false,
+      "description": "And yet, a surprisingly lacking description...",
+      "lat": "30.269023617",
+      "activity_url": "/spots/7219370/events",
+      "photos_count": 2
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Annie's West",
+      "checkins_count": 339,
+      "image_url": "http://static.gowalla.com/categories/26-cb1b638a5929e0dbd3bfd3e39d5c1d7e-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/26-9d894bc134c2b74cbe7ac511ab4e0f60-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/26-cb1b638a5929e0dbd3bfd3e39d5c1d7e-100.png",
+      "radius_meters": 75,
+      "users_count": 246,
+      "url": "/spots/26791",
+      "checkins_url": "/checkins?spot_id=26791",
+      "foursquare_id": "49d112a1f964a520595b1fe3",
+      "lng": "-97.7499479167",
+      "spot_categories": [
+        {
+          "name": "Ultra-lounge",
+          "url": "/categories/26"
+        }
+      ],
+      "highlights_url": "/spots/26791/highlights",
+      "items_url": "/spots/26791/items",
+      "items_count": 9,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.2702139",
+      "activity_url": "/spots/26791/events",
+      "photos_count": 9
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Emergo Group",
+      "checkins_count": 23,
+      "image_url": "http://static.gowalla.com/categories/210-e7869fac27ea45af0da356338dd73b6f-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/210-d65846c4b092a39e066588e72933b2df-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/210-e7869fac27ea45af0da356338dd73b6f-100.png",
+      "radius_meters": 75,
+      "users_count": 21,
+      "url": "/spots/6293195",
+      "checkins_url": "/checkins?spot_id=6293195",
+      "foursquare_id": null,
+      "lng": "-97.749674533",
+      "spot_categories": [
+        {
+          "name": "Other - Medical",
+          "url": "/categories/210"
+        }
+      ],
+      "highlights_url": "/spots/6293195/highlights",
+      "items_url": "/spots/6293195/items",
+      "items_count": 1,
+      "strict_radius": false,
+      "description": "Medical Device Regulatory Consulting",
+      "lat": "30.268983467",
+      "activity_url": "/spots/6293195/events",
+      "photos_count": 0
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Star Bar",
+      "checkins_count": 493,
+      "image_url": "http://static.gowalla.com/categories/26-cb1b638a5929e0dbd3bfd3e39d5c1d7e-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/26-9d894bc134c2b74cbe7ac511ab4e0f60-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/26-cb1b638a5929e0dbd3bfd3e39d5c1d7e-100.png",
+      "radius_meters": 50,
+      "users_count": 358,
+      "url": "/spots/127465",
+      "checkins_url": "/checkins?spot_id=127465",
+      "foursquare_id": "4b0dc7bcf964a520035023e3",
+      "spot_categories": [
+        {
+          "name": "Ultra-lounge",
+          "url": "/categories/26"
+        }
+      ],
+      "lng": "-97.7485237333",
+      "highlights_url": "/spots/127465/highlights",
+      "items_url": "/spots/127465/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.2698255833",
+      "activity_url": "/spots/127465/events",
+      "photos_count": 19
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Aquarelle",
+      "checkins_count": 113,
+      "image_url": "http://static.gowalla.com/categories/82-806ffb9ec630d851827533c85dd053e8-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/82-9f429b0ae782da9ce88dd51784935e35-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/82-806ffb9ec630d851827533c85dd053e8-100.png",
+      "radius_meters": 75,
+      "users_count": 101,
+      "url": "/spots/34714",
+      "checkins_url": "/checkins?spot_id=34714",
+      "foursquare_id": "4a85f8e6f964a520e3ff1fe3",
+      "lng": "-97.74937345",
+      "spot_categories": [
+        {
+          "name": "French",
+          "url": "/categories/82"
+        }
+      ],
+      "highlights_url": "/spots/34714/highlights",
+      "items_url": "/spots/34714/items",
+      "items_count": 9,
+      "strict_radius": false,
+      "description": "The finest French food in Austin, in a cozy little building.",
+      "lat": "30.2705150833",
+      "activity_url": "/spots/34714/events",
+      "photos_count": 5
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "J Black's Feel Good Lounge",
+      "checkins_count": 860,
+      "image_url": "http://static.gowalla.com/categories/56-2f0e5f0befea73fa5150f9a3de1aec69-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/56-373cda302cc4bc4a5921bd84536cf915-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/56-2f0e5f0befea73fa5150f9a3de1aec69-100.png",
+      "radius_meters": 75,
+      "users_count": 561,
+      "url": "/spots/51856",
+      "checkins_url": "/checkins?spot_id=51856",
+      "foursquare_id": null,
+      "lng": "-97.7500927448",
+      "spot_categories": [
+        {
+          "name": "Other - Nightlife ",
+          "url": "/categories/56"
+        }
+      ],
+      "highlights_url": "/spots/51856/highlights",
+      "items_url": "/spots/51856/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.2702612148",
+      "activity_url": "/spots/51856/events",
+      "photos_count": 27
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Austin Urban Vet Center",
+      "checkins_count": 107,
+      "image_url": "http://static.gowalla.com/categories/365-46a20a14a856a931b0eba1de31293f6d-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/365-8f17415d2ba7a6801da16826d8b065b7-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/365-46a20a14a856a931b0eba1de31293f6d-100.png",
+      "radius_meters": 50,
+      "users_count": 74,
+      "url": "/spots/517690",
+      "checkins_url": "/checkins?spot_id=517690",
+      "foursquare_id": null,
+      "spot_categories": [
+        {
+          "name": "Veterinarian",
+          "url": "/categories/365"
+        }
+      ],
+      "lng": "-97.7501848668",
+      "highlights_url": "/spots/517690/highlights",
+      "items_url": "/spots/517690/items",
+      "items_count": 5,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.2691939462",
+      "activity_url": "/spots/517690/events",
+      "photos_count": 4
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Citibank",
+      "checkins_count": 143,
+      "image_url": "http://static.gowalla.com/categories/186-6bbc4f218b796016793ff0fc9eb18755-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/186-785ac730272e97b18754e9f7af592ed7-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/186-6bbc4f218b796016793ff0fc9eb18755-100.png",
+      "radius_meters": 75,
+      "users_count": 91,
+      "url": "/spots/365814",
+      "checkins_url": "/checkins?spot_id=365814",
+      "foursquare_id": "4bdf7c330ee3a593978734b0",
+      "lng": "-97.7498251",
+      "spot_categories": [
+        {
+          "name": "Bank & Financial",
+          "url": "/categories/186"
+        }
+      ],
+      "highlights_url": "/spots/365814/highlights",
+      "items_url": "/spots/365814/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.2689053667",
+      "activity_url": "/spots/365814/events",
+      "photos_count": 3
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Salon Bloom",
+      "checkins_count": 51,
+      "image_url": "http://static.gowalla.com/categories/117-be04fb38763b65aa7609c5a10f6c0e30-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/117-ebac75d6e57a30238996b14041916045-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/117-be04fb38763b65aa7609c5a10f6c0e30-100.png",
+      "radius_meters": 75,
+      "users_count": 37,
+      "url": "/spots/94255",
+      "checkins_url": "/checkins?spot_id=94255",
+      "foursquare_id": null,
+      "spot_categories": [
+        {
+          "name": "Salon & Barbershop",
+          "url": "/categories/117"
+        }
+      ],
+      "lng": "-97.7494597435",
+      "highlights_url": "/spots/94255/highlights",
+      "items_url": "/spots/94255/items",
+      "items_count": 4,
+      "strict_radius": false,
+      "description": "Also available for on-location services, this conveniently located salon has flexible hours, uses quality products, and offers a variety of treatments for reasonable prices. Walk-ins welcome!  ",
+      "lat": "30.2706318556",
+      "activity_url": "/spots/94255/events",
+      "photos_count": 1
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Sovereign Bank",
+      "checkins_count": 6,
+      "image_url": "http://static.gowalla.com/categories/186-6bbc4f218b796016793ff0fc9eb18755-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/186-785ac730272e97b18754e9f7af592ed7-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/186-6bbc4f218b796016793ff0fc9eb18755-100.png",
+      "radius_meters": 75,
+      "users_count": 5,
+      "url": "/spots/7081892",
+      "checkins_url": "/checkins?spot_id=7081892",
+      "foursquare_id": null,
+      "lng": "-97.748975487",
+      "spot_categories": [
+        {
+          "name": "Bank & Financial",
+          "url": "/categories/186"
+        }
+      ],
+      "highlights_url": "/spots/7081892/highlights",
+      "items_url": "/spots/7081892/items",
+      "items_count": 0,
+      "strict_radius": false,
+      "description": "Achieved AEGB 1 star rating",
+      "lat": "30.26883668",
+      "activity_url": "/spots/7081892/events",
+      "photos_count": 0
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "C Van R Automotive",
+      "checkins_count": 51,
+      "image_url": "http://static.gowalla.com/categories/119-6a8388ab539804cfa2ef38b84cb978dc-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/119-7cd5581f0e76e4dd9d735565ca1456ae-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/119-6a8388ab539804cfa2ef38b84cb978dc-100.png",
+      "radius_meters": 75,
+      "users_count": 32,
+      "url": "/spots/730340",
+      "checkins_url": "/checkins?spot_id=730340",
+      "foursquare_id": "4ba12da4f964a520549f37e3",
+      "lng": "-97.7483316833",
+      "spot_categories": [
+        {
+          "name": "Gas & Automotive",
+          "url": "/categories/119"
+        }
+      ],
+      "highlights_url": "/spots/730340/highlights",
+      "items_url": "/spots/730340/items",
+      "items_count": 1,
+      "strict_radius": false,
+      "description": "Good people, good service",
+      "lat": "30.2694670333",
+      "activity_url": "/spots/730340/events",
+      "photos_count": 0
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Austin Dirty Dog",
+      "checkins_count": 128,
+      "image_url": "http://static.gowalla.com/categories/173-91c43acf2b95292e55fce1b5dfde4a52-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/173-202f2ce7aa1a58ea61c2656f5ee7ad56-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/173-91c43acf2b95292e55fce1b5dfde4a52-100.png",
+      "radius_meters": 75,
+      "users_count": 101,
+      "url": "/spots/402099",
+      "checkins_url": "/checkins?spot_id=402099",
+      "foursquare_id": "4b6db973f964a520d6892ce3",
+      "lng": "-97.7501113871",
+      "spot_categories": [
+        {
+          "name": "Pet Store",
+          "url": "/categories/173"
+        }
+      ],
+      "highlights_url": "/spots/402099/highlights",
+      "items_url": "/spots/402099/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.2689657735",
+      "activity_url": "/spots/402099/events",
+      "photos_count": 6
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Molotov",
+      "checkins_count": 1116,
+      "image_url": "http://static.gowalla.com/categories/26-cb1b638a5929e0dbd3bfd3e39d5c1d7e-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/26-9d894bc134c2b74cbe7ac511ab4e0f60-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/26-cb1b638a5929e0dbd3bfd3e39d5c1d7e-100.png",
+      "radius_meters": 75,
+      "users_count": 759,
+      "url": "/spots/9510",
+      "checkins_url": "/checkins?spot_id=9510",
+      "foursquare_id": "43f5b4ddf964a520a42f1fe3",
+      "spot_categories": [
+        {
+          "name": "Ultra-lounge",
+          "url": "/categories/26"
+        }
+      ],
+      "lng": "-97.750427",
+      "highlights_url": "/spots/9510/highlights",
+      "items_url": "/spots/9510/items",
+      "items_count": 11,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.270083",
+      "activity_url": "/spots/9510/events",
+      "photos_count": 38
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Max Parfait",
+      "checkins_count": 21,
+      "image_url": "http://static.gowalla.com/categories/154-001fa3dc344f17bf0e61c796af3a4565-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/154-22fd52c21f07cf5bc61dd2e166703af6-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/154-001fa3dc344f17bf0e61c796af3a4565-100.png",
+      "radius_meters": 75,
+      "users_count": 19,
+      "url": "/spots/1578546",
+      "checkins_url": "/checkins?spot_id=1578546",
+      "foursquare_id": null,
+      "lng": "-97.7483546734",
+      "spot_categories": [
+        {
+          "name": "Burgers",
+          "url": "/categories/154"
+        }
+      ],
+      "highlights_url": "/spots/1578546/highlights",
+      "items_url": "/spots/1578546/items",
+      "items_count": 1,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.2693241835",
+      "activity_url": "/spots/1578546/events",
+      "photos_count": 0
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "OneTaco",
+      "checkins_count": 1063,
+      "image_url": "http://static.gowalla.com/spots/78290-f58ef480db11567d435479d091eae77a-100.png",
+      "_image_url_200": "http://static.gowalla.com/spots/78290-e5bc917453c3324115e7c419d730a416-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/spots/78290-f58ef480db11567d435479d091eae77a-100.png",
+      "radius_meters": 50,
+      "users_count": 494,
+      "url": "/spots/78290",
+      "checkins_url": "/checkins?spot_id=78290",
+      "foursquare_id": "4b9bbc99f964a520691f36e3",
+      "lng": "-97.7482661605",
+      "spot_categories": [
+        {
+          "name": "Tacos",
+          "url": "/categories/189"
+        }
+      ],
+      "highlights_url": "/spots/78290/highlights",
+      "items_url": "/spots/78290/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "Home of the famous Gowalla Taco. Serving some of the best breakfast tacos in Austin, TX.",
+      "lat": "30.269767797",
+      "activity_url": "/spots/78290/events",
+      "photos_count": 77
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "The Ranch",
+      "checkins_count": 476,
+      "image_url": "http://static.gowalla.com/categories/24-1ce1ad9e41ae85d468b71e483daac930-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/24-602659589368399c1ab8d500d2b8a4da-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/24-1ce1ad9e41ae85d468b71e483daac930-100.png",
+      "radius_meters": 75,
+      "users_count": 350,
+      "url": "/spots/41937",
+      "checkins_url": "/checkins?spot_id=41937",
+      "foursquare_id": "47f7ada5f964a520b54e1fe3",
+      "lng": "-97.7504193",
+      "spot_categories": [
+        {
+          "name": "Pub",
+          "url": "/categories/24"
+        }
+      ],
+      "highlights_url": "/spots/41937/highlights",
+      "items_url": "/spots/41937/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": null,
+      "lat": "30.2701632167",
+      "activity_url": "/spots/41937/events",
+      "photos_count": 23
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Jerri Kunz Interior Design",
+      "checkins_count": 20,
+      "image_url": "http://static.gowalla.com/categories/53-710ac58f380ed7a45acbeba790b0c101-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/53-05c83c7f333f7863842a37730880708d-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/53-710ac58f380ed7a45acbeba790b0c101-100.png",
+      "radius_meters": 75,
+      "users_count": 18,
+      "url": "/spots/1048412",
+      "checkins_url": "/checkins?spot_id=1048412",
+      "foursquare_id": null,
+      "lng": "-97.7505601795",
+      "spot_categories": [
+        {
+          "name": "Furniture",
+          "url": "/categories/53"
+        }
+      ],
+      "highlights_url": "/spots/1048412/highlights",
+      "items_url": "/spots/1048412/items",
+      "items_count": 1,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.2698340263",
+      "activity_url": "/spots/1048412/events",
+      "photos_count": 0
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Ritual Salon",
+      "checkins_count": 44,
+      "image_url": "http://static.gowalla.com/categories/117-be04fb38763b65aa7609c5a10f6c0e30-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/117-ebac75d6e57a30238996b14041916045-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/117-be04fb38763b65aa7609c5a10f6c0e30-100.png",
+      "radius_meters": 75,
+      "users_count": 28,
+      "url": "/spots/1261556",
+      "checkins_url": "/checkins?spot_id=1261556",
+      "foursquare_id": "4bf410d2cad2c928d7769b99",
+      "lng": "-97.749225017",
+      "spot_categories": [
+        {
+          "name": "Salon & Barbershop",
+          "url": "/categories/117"
+        }
+      ],
+      "highlights_url": "/spots/1261556/highlights",
+      "items_url": "/spots/1261556/items",
+      "items_count": 2,
+      "strict_radius": false,
+      "description": "Fabulous, hip, the 'it' place. Great stylists, atmosphere and ambiance.\n\nThe new place in town.\n\nwww.ritualsalonaustin.com",
+      "lat": "30.270700567",
+      "activity_url": "/spots/1261556/events",
+      "photos_count": 4
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "The Dogwood",
+      "checkins_count": 820,
+      "image_url": "http://static.gowalla.com/categories/241-7f1097f92f05f9c89ac1c7318acbed6e-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/241-343793c1a575a9db28129cf3ba75b1e7-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/241-7f1097f92f05f9c89ac1c7318acbed6e-100.png",
+      "radius_meters": 75,
+      "users_count": 537,
+      "url": "/spots/1464402",
+      "checkins_url": "/checkins?spot_id=1464402",
+      "foursquare_id": "4c3643e7298e9c7452b407e3",
+      "spot_categories": [
+        {
+          "name": "Bar",
+          "url": "/categories/241"
+        }
+      ],
+      "lng": "-97.7504964833",
+      "highlights_url": "/spots/1464402/highlights",
+      "items_url": "/spots/1464402/items",
+      "items_count": 15,
+      "strict_radius": false,
+      "description": "",
+      "lat": "30.2701179833",
+      "activity_url": "/spots/1464402/events",
+      "photos_count": 51
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Colbrí Cuisine",
+      "checkins_count": 56,
+      "image_url": "http://static.gowalla.com/categories/15-86c95944931ab87b5af70d9cf48de40e-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/15-a055b42ca25e1e6a18786a5d967c1b26-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/15-86c95944931ab87b5af70d9cf48de40e-100.png",
+      "radius_meters": 75,
+      "users_count": 46,
+      "url": "/spots/6600423",
+      "checkins_url": "/checkins?spot_id=6600423",
+      "foursquare_id": "4d45f0d659ca2d4380e1280f",
+      "lng": "-97.748182899",
+      "spot_categories": [
+        {
+          "name": "Mexican",
+          "url": "/categories/15"
+        }
+      ],
+      "highlights_url": "/spots/6600423/highlights",
+      "items_url": "/spots/6600423/items",
+      "items_count": 2,
+      "strict_radius": false,
+      "description": "Quesadilla truck. ",
+      "lat": "30.269438497",
+      "activity_url": "/spots/6600423/events",
+      "photos_count": 2
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "The Peached Tortilla",
+      "checkins_count": 150,
+      "image_url": "http://static.gowalla.com/categories/189-753eb1189de11d6a1995972f0ea55f0b-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/189-b26483fd6c064fddf3b77d0258dfe903-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/189-753eb1189de11d6a1995972f0ea55f0b-100.png",
+      "radius_meters": 50,
+      "users_count": 79,
+      "url": "/spots/6535339",
+      "checkins_url": "/checkins?spot_id=6535339",
+      "foursquare_id": null,
+      "spot_categories": [
+        {
+          "name": "Tacos",
+          "url": "/categories/189"
+        }
+      ],
+      "lng": "-97.7482908",
+      "highlights_url": "/spots/6535339/highlights",
+      "items_url": "/spots/6535339/items",
+      "items_count": 1,
+      "strict_radius": false,
+      "description": "You have to try it to believe it",
+      "lat": "30.270224492",
+      "activity_url": "/spots/6535339/events",
+      "photos_count": 13
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Lakeside Icehouse & Grill",
+      "checkins_count": 6,
+      "image_url": "http://static.gowalla.com/categories/16-1f31710ac58f380ed7a48f5acbeba790-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/16-017d496fbdb50dca6782702eef2d5c94-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/16-1f31710ac58f380ed7a48f5acbeba790-100.png",
+      "radius_meters": 75,
+      "users_count": 6,
+      "url": "/spots/7026322",
+      "checkins_url": "/checkins?spot_id=7026322",
+      "foursquare_id": null,
+      "lng": "-97.7481275333",
+      "spot_categories": [
+        {
+          "name": "American",
+          "url": "/categories/16"
+        }
+      ],
+      "highlights_url": "/spots/7026322/highlights",
+      "items_url": "/spots/7026322/items",
+      "items_count": 0,
+      "strict_radius": false,
+      "description": null,
+      "lat": "30.2695945667",
+      "activity_url": "/spots/7026322/events",
+      "photos_count": 0
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Food on the Table",
+      "checkins_count": 17,
+      "image_url": "http://static.gowalla.com/categories/36-52f4bc942c266fe22a442af344f5d650-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/36-a514bf57223d39b04bf283f4ad8820c9-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/36-52f4bc942c266fe22a442af344f5d650-100.png",
+      "radius_meters": 75,
+      "users_count": 12,
+      "url": "/spots/6965983",
+      "checkins_url": "/checkins?spot_id=6965983",
+      "foursquare_id": null,
+      "spot_categories": [
+        {
+          "name": "Technology",
+          "url": "/categories/36"
+        }
+      ],
+      "lng": "-97.748205637",
+      "highlights_url": "/spots/6965983/highlights",
+      "items_url": "/spots/6965983/items",
+      "items_count": 3,
+      "strict_radius": false,
+      "description": "Food on the Table helps families eat better and save money at the grocery store.",
+      "lat": "30.270104163",
+      "activity_url": "/spots/6965983/events",
+      "photos_count": 6
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Rossocorp",
+      "checkins_count": 52,
+      "image_url": "http://static.gowalla.com/categories/121-903d9ce4f33b0284aacfeacd58118a19-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/121-b3390d3267c29dbbbd67ccfff852177f-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/121-903d9ce4f33b0284aacfeacd58118a19-100.png",
+      "radius_meters": 75,
+      "users_count": 32,
+      "url": "/spots/247268",
+      "checkins_url": "/checkins?spot_id=247268",
+      "foursquare_id": null,
+      "spot_categories": [
+        {
+          "name": "Corporate Office",
+          "url": "/categories/121"
+        }
+      ],
+      "lng": "-97.7482349167",
+      "highlights_url": "/spots/247268/highlights",
+      "items_url": "/spots/247268/items",
+      "items_count": 2,
+      "strict_radius": false,
+      "description": null,
+      "lat": "30.2701861833",
+      "activity_url": "/spots/247268/events",
+      "photos_count": 0
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Paper Boy In Bronze",
+      "checkins_count": 30,
+      "image_url": "http://static.gowalla.com/categories/51-56e6ea3d78c9b4d7d2391d784d37f49d-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/51-74227c919f9c37169901fa4b68ed42b7-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/51-56e6ea3d78c9b4d7d2391d784d37f49d-100.png",
+      "radius_meters": 50,
+      "users_count": 29,
+      "url": "/spots/5042103",
+      "checkins_url": "/checkins?spot_id=5042103",
+      "foursquare_id": null,
+      "lng": "-97.7504671",
+      "spot_categories": [
+        {
+          "name": "Sculpture",
+          "url": "/categories/51"
+        }
+      ],
+      "highlights_url": "/spots/5042103/highlights",
+      "items_url": "/spots/5042103/items",
+      "items_count": 1,
+      "strict_radius": false,
+      "description": null,
+      "lat": "30.269042333",
+      "activity_url": "/spots/5042103/events",
+      "photos_count": 1
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Little Woodrow's",
+      "checkins_count": 996,
+      "image_url": "http://static.gowalla.com/categories/24-1ce1ad9e41ae85d468b71e483daac930-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/24-602659589368399c1ab8d500d2b8a4da-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/24-1ce1ad9e41ae85d468b71e483daac930-100.png",
+      "radius_meters": 100,
+      "users_count": 582,
+      "url": "/spots/31324",
+      "checkins_url": "/checkins?spot_id=31324",
+      "foursquare_id": "40b3de00f964a52007001fe3",
+      "spot_categories": [
+        {
+          "name": "Pub",
+          "url": "/categories/24"
+        }
+      ],
+      "lng": "-97.7480524314",
+      "highlights_url": "/spots/31324/highlights",
+      "items_url": "/spots/31324/items",
+      "items_count": 10,
+      "strict_radius": false,
+      "description": "Cold beer, full bar, big patio. Your game is showing. \n\nLittle Woodrow’s Neighborhood Bar is the beer lovers place for the ultimate sports watching experience, featuring drink specials every day with over 100 beers and a FULL bar!",
+      "lat": "30.2697103929",
+      "activity_url": "/spots/31324/events",
+      "photos_count": 41
+    },
+    {
+      "address": {
+        "region": "TX",
+        "locality": "Austin"
+      },
+      "name": "Salon Bloom",
+      "checkins_count": 9,
+      "image_url": "http://static.gowalla.com/categories/117-be04fb38763b65aa7609c5a10f6c0e30-100.png",
+      "_image_url_200": "http://static.gowalla.com/categories/117-ebac75d6e57a30238996b14041916045-200.png",
+      "trending_level": 0,
+      "_image_url_50": "http://static.gowalla.com/categories/117-be04fb38763b65aa7609c5a10f6c0e30-100.png",
+      "radius_meters": 75,
+      "users_count": 8,
+      "url": "/spots/963564",
+      "checkins_url": "/checkins?spot_id=963564",
+      "lng": "-97.7492524787",
+      "spot_categories": [
+        {
+          "name": "Salon & Barbershop",
+          "url": "/categories/117"
+        }
+      ],
+      "highlights_url": "/spots/963564/highlights",
+      "items_url": "/spots/963564/items",
+      "items_count": 2,
+      "strict_radius": false,
+      "description": null,
+      "lat": "30.2709372397",
+      "activity_url": "/spots/963564/events",
+      "photos_count": 0
+    }
+  ],
+  "total_results": 50,
+  "locality": "511 Rio Grande St, Austin, TX 78701, USA",
+  "per_page": 50,
+  "current_page": 1
+}
