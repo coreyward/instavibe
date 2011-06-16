@@ -1,6 +1,7 @@
 class Plan < ActiveRecord::Base
   belongs_to :event
   belongs_to :user
+  accepts_nested_attributes_for :event
   
   # todo: prevent conflicting plans
   validates :event, :presence => true
@@ -9,6 +10,7 @@ class Plan < ActiveRecord::Base
     :on_or_after => lambda { |plan| plan.event.starts_at },
     :before => lambda { 12.hours.from_now }
   }
+  validates_associated :event, :on => :create
   
   default_scope where(:active => true)
   scope :with_details, includes(:event => :spot)

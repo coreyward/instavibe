@@ -16,7 +16,12 @@ class PlansController < ApplicationController
 
   # POST /api/users/:user_id/plans
   def create
-    @plan = @user.plans.create(params[:plan])
+    plan_params = params[:plan]
+    if params[:event]
+      plan_params[:event] = @user.events.build(params[:event])
+    end
+    
+    @plan = @user.plans.create(plan_params)
     respond_with(@user, @plan)
   end
 
