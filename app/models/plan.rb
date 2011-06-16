@@ -17,6 +17,11 @@ class Plan < ActiveRecord::Base
   # eventually:
   # scope :relevant, lambda { is_in_the_future || is_checked_in }
   
+  def check_in!
+    return checked_in_at if checked_in?
+    update_attribute(:checked_in_at, DateTime.now)
+  end
+  
   def checked_in?
     !checked_in_at.nil?
   end
