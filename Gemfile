@@ -9,4 +9,9 @@ gem 'validates_timeliness'
 
 group :development do
   gem 'awesome_print'
+  gem 'rspec-rails'
+end
+
+group :test do
+  gem 'rspec-rails'
 end

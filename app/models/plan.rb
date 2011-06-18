@@ -29,7 +29,7 @@ class Plan < ActiveRecord::Base
   end
   
   def running_late?
-    estimated_arrival_at > DateTime.now
+    (estimated_arrival_at < DateTime.now) && !checked_in?
   end
   
   def cancelled?
