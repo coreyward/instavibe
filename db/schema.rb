@@ -10,7 +10,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20110614020946) do
+ActiveRecord::Schema.define(:version => 20110705235603) do
 
   create_table "events", :force => true do |t|
     t.integer  "spot_id",     :null => false
@@ -48,6 +48,8 @@ ActiveRecord::Schema.define(:version => 20110614020946) do
     t.string   "email",      :null => false
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.string   "fb_id"
+    t.string   "udid"
   end
 
 end

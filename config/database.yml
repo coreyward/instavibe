@@ -9,10 +9,10 @@ development:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: instavibe_development
+  database: instavibe_dev
   pool: 5
-  username: root
-  password:
+  username: instavibe
+  password: instavibe
   socket: /tmp/mysql.sock
 
 # Warning: The database defined as "test" will be erased and
